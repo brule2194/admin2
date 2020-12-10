@@ -1,7 +1,7 @@
 <template>
   <v-app id="inspire">
     <v-container>
-      <v-navigation-drawer v-model="drawer" temporary app>
+      <v-navigation-drawer v-model="drawer" permanent app>
         <v-sheet color="deep-purple accent-4" class="pa-4">
           <v-avatar class="mb-4" color="grey darken-1" size="64">
             <img src="@/assets/1.jpg" />
